@@ -15,4 +15,4 @@ https://colab.research.google.com/drive/1kVJJYFOpJ593ZY7T8DhghY_rWtehScrc?usp=sh
 ![Все выравнивания](https://github.com/LinaFoxler/project_BI/blob/main/H4.PNG)
 
 ## Вывод
-Тк все последовательности похожи они могут кодировать один и тот же ген
+Тк все последовательности похожи они могут кодировать один и тот же ген H2A/H2B
