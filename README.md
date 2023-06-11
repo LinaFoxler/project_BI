@@ -13,3 +13,6 @@ https://colab.research.google.com/drive/1kVJJYFOpJ593ZY7T8DhghY_rWtehScrc?usp=sh
 ![Все выравнивания](https://github.com/LinaFoxler/project_BI/blob/main/H2B.PNG)
 ![Все выравнивания](https://github.com/LinaFoxler/project_BI/blob/main/H3.PNG)
 ![Все выравнивания](https://github.com/LinaFoxler/project_BI/blob/main/H4.PNG)
+
+## Вывод
+Тк все последовательности похожи они могут кодировать один и тот же ген
